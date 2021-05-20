@@ -1,0 +1,25 @@
+body{
+	background: #d2d2c1 url('imagens/fundo.png'); /*## A imagem fica sobre a cor (mas nesse caso a cor não aparece pq a imagem cobre todo o espaço) ##*/
+	font: 16px Arial, Helvetica, sans-serif;
+}
+a{
+	text-decoration: none;
+}
+table{
+	margin: 0 auto;
+}
+.borda{
+	border-color: pink;
+	border-style: solid;
+	border-width: 10px;
+}
+.rosa{
+	color: #ff0080;
+}
+.menu{
+	color: #66004d;
+	background-color: pink;
+}
+.fundo-branco{
+	background-color: white;
+}
